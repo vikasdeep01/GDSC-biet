@@ -1,2 +1,2 @@
 # GDSC-biet
-some bigs are creating this
+##Hello there.,...We creating this in seminar hall
